@@ -23,6 +23,8 @@ Analysis. Apunts. Educación Física y Deportes, 137, 149-153. doi:10.5672/apunt
 - Check online documentation and our wiki 
 - For any usage or request please send an email to alberto.soto@gmail.com
 
+
+
 ### Download current versions
 
 #### Requirements
@@ -34,3 +36,19 @@ Any version needs, at least, java 1.8 preconfigured on your system
 - [Windows x64 / w10](https://github.com/albertoSoto/lince-plus/raw/master/lince-PLUS-1.0.0-RELEASE-win.msi)
 
 - [Mac OS](https://github.com/albertoSoto/lince-plus/raw/master/lince-PLUS-1.0.0-RELEASE-mac.zip)
+
+
+
+### Known bugs
+
+
+* Mac Version can't open browser directly, needs user interaction
+
+
+
+## Release notes
+
+* Version 1.0.0 RELEASE, 10/06/2019
+
+** Initial desktop version
+** MacOS installer and 
