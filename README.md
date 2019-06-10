@@ -1,3 +1,7 @@
+---
+title: Lince Plus
+---
+
 ## Welcome to Lince PLUS    
 
 Lince plus is a project under development through a Phd study with the collaboration of Inefc Catalunya.
