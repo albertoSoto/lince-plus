@@ -1,3 +1,26 @@
+## Welcome to Lince PLUS    
+
+Lince plus is a project under development through a Phd study with the collaboration of Inefc Catalunya.
+
+The release will be announced shortly.
+
+Estimated deliver date 15/06/2019
+
+### What is Lince?
+
+Lince is a visualization tool for research, that let's you analyze data and organize your study
+
+## Contact
+
+For any usage or request please send an email to alberto.soto@gmail.com
+
+## Public link
+https://albertosoto.github.io/lince.doc/
+
+## LFS
+
+Uses https://git-lfs.github.com/ for storing versioning
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/albertoSoto/lince-plus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
