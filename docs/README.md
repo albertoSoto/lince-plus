@@ -2,10 +2,6 @@
 
 Lince plus is a project under development through a Phd study with the collaboration of Inefc Catalunya.
 
-The release will be announced shortly.
-
-Estimated deliver date 15/06/2019
-
 ### About Lince
 
 Lince is a visualization tool for research, that let's you analyze data and organize your study
@@ -25,13 +21,13 @@ Analysis. Apunts. Educación Física y Deportes, 137, 149-153. doi:10.5672/apunt
 
 
 
-### Download current versions
+## Download current version
 
-#### Requirements
+### Requirements
 
 Any version needs, at least, java 1.8 preconfigured on your system
 
-#### Version 1.0.0 RELEASE
+### Version 1.0.0 RELEASE
 
 - [Windows x64 / w10](https://github.com/albertoSoto/lince-plus/raw/master/lince-PLUS-1.0.0-RELEASE-win.msi)
 
@@ -42,13 +38,14 @@ Any version needs, at least, java 1.8 preconfigured on your system
 ### Known bugs
 
 
-* Mac Version can't open browser directly, needs user interaction
+- Mac Version can't open browser directly, needs user interaction
 
 
 
 ## Release notes
 
-* Version 1.0.0 RELEASE, 10/06/2019
 
-** Initial desktop version
-** MacOS installer and 
+- Version 1.0.0 RELEASE, 10/06/2019
+
+    - Initial desktop version
+    - MacOS installer and 
